@@ -1,4 +1,5 @@
 Without using jargon, how would you describe the command line to a lay person (e.g. your mum)?
+
 It is a place (computer program) that you can type commands into instead of using a mouse. 
 
 For example creating a folder:
